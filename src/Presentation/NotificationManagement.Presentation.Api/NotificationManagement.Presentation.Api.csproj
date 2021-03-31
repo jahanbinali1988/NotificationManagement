@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Messages\Message\Response\" />
+    <Folder Include="Messages\User\Response\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0" />
+    <PackageReference Include="Mapster" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\Common.AspNetCore\Common.AspNetCore.csproj" />
+    <ProjectReference Include="..\..\Application\NotificationManagement.Application\NotificationManagement.Application.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Common.Authentication/1.0.0": {
+        "dependencies": {
+          "Pawny.Common": "0.2.1"
+        },
+        "runtime": {
+          "Common.Authentication.dll": {}
+        }
+      },
+      "Pawny.Common/0.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/Pawny.Common.dll": {
+            "assemblyVersion": "0.2.1.0",
+            "fileVersion": "0.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common.Authentication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pawny.Common/0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y1P2pkpb7VXdD15aaCN29ps+bYyfdOTTC0eBygWQeDCqjzS2XXYti+bapyM7SkTJsxDmgMhXfOQUZB3KZzbfeA==",
+      "path": "pawny.common/0.2.1",
+      "hashPath": "pawny.common.0.2.1.nupkg.sha512"
+    }
+  }
+}

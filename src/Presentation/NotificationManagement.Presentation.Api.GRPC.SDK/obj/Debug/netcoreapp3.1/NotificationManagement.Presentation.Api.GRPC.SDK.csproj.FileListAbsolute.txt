@@ -1,0 +1,9 @@
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\bin\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.deps.json
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\bin\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\bin\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.AssemblyInfo.cs
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\obj\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.csprojAssemblyReference.cache

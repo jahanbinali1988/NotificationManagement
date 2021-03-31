@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.2" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="3.1.2" />
+    <PackageReference Include="MongoDB.Driver" Version="2.11.5" />
+    <PackageReference Include="Pawny.Common" Version="0.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\Common.Application\Common.Application.csproj" />
+    <ProjectReference Include="..\..\..\Common\Common.Domain\Common.Domain.csproj">
+      <IncludeAssets>all</IncludeAssets>
+      <ExcludeAssets>all</ExcludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common\Common.MongoDb\Common.MongoDb.csproj">
+      <IncludeAssets>all</IncludeAssets>
+      <ExcludeAssets>all</ExcludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Common\Common.Query\Common.Query.csproj" />
+    <ProjectReference Include="..\..\Application\NotificationManagement.Application\NotificationManagement.Application.csproj" />
+    <ProjectReference Include="..\..\Domain\NotificationManagement.Domain\NotificationManagement.Domain.csproj" />
+    <ProjectReference Include="..\NotificationManagement.Persistence.Mongo\NotificationManagement.Persistence.Mongo.csproj" />
+  </ItemGroup>
+</Project>

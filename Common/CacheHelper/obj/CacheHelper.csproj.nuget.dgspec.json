@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\sample-code\\NotificationManagement\\Common\\CacheHelper\\CacheHelper.csproj": {}
+  },
+  "projects": {
+    "E:\\sample-code\\NotificationManagement\\Common\\CacheHelper\\CacheHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\sample-code\\NotificationManagement\\Common\\CacheHelper\\CacheHelper.csproj",
+        "projectName": "CacheHelper",
+        "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\CacheHelper\\CacheHelper.csproj",
+        "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+        "outputPath": "E:\\sample-code\\NotificationManagement\\Common\\CacheHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+          "http://nuget.scratnet.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Komodo.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Komodo.Caching.InMemory": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Komodo.Caching.Redis": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Komodo.Serializer": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

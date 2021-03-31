@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="MongoDB.Driver" />
+		<PackageReference Include="Newtonsoft.Json" />
+		<PackageReference Include="Pawny.Common" />
+	</ItemGroup>  
+  
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" Version="2.11.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Pawny.Common" Version="0.2.1" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\Common.Domain\Common.Domain.csproj" />
+    <ProjectReference Include="..\..\..\Common\Common.MongoDb\Common.MongoDb.csproj" />
+    <ProjectReference Include="..\..\Domain\NotificationManagement.Domain\NotificationManagement.Domain.csproj" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Mapping\Message\" />
+    <Folder Include="Mapping\User\" />
+  </ItemGroup>
+
+</Project>

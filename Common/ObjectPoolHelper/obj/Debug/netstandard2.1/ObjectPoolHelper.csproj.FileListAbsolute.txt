@@ -1,0 +1,17 @@
+C:\Users\mm\source\repos\filmnet\Common\ObjectPoolHelper\bin\Debug\netstandard2.1\ObjectPoolHelper.deps.json
+C:\Users\mm\source\repos\filmnet\Common\ObjectPoolHelper\bin\Debug\netstandard2.1\ObjectPoolHelper.dll
+C:\Users\mm\source\repos\filmnet\Common\ObjectPoolHelper\bin\Debug\netstandard2.1\ObjectPoolHelper.pdb
+C:\Users\mm\source\repos\filmnet\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\filmnet\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.AssemblyInfo.cs
+C:\Users\mm\source\repos\filmnet\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\filmnet\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.dll
+C:\Users\mm\source\repos\filmnet\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\bin\Debug\netstandard2.1\ObjectPoolHelper.deps.json
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\bin\Debug\netstandard2.1\ObjectPoolHelper.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\bin\Debug\netstandard2.1\ObjectPoolHelper.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.AssemblyInfo.cs
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\ObjectPoolHelper\obj\Debug\netstandard2.1\ObjectPoolHelper.csprojAssemblyReference.cache

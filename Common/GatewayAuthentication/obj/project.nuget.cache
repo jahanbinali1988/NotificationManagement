@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EK0enqqrbZFUkqG9w44oK47DVKEUxj6Gr0YxyrSNIYBUYUw4IMYRP4RlhdF2cYxH/yuUSnEUw9bGmuCM1v8V6A==",
+  "success": true,
+  "projectFilePath": "E:\\sample-code\\NotificationManagement\\Common\\GatewayAuthentication\\Common.Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mm\\.nuget\\packages\\pawny.common\\0.2.1\\pawny.common.0.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,297 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\sample-code\\NotificationManagement\\test\\NotificationManagement.Domain.Tests.Unit\\NotificationManagement.Domain.Tests.Unit.csproj": {}
+  },
+  "projects": {
+    "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj",
+        "projectName": "Common.Core",
+        "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj",
+        "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+        "outputPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+          "http://nuget.scratnet.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Hashids.net": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Pawny.Common": {
+              "target": "Package",
+              "version": "[0.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\sample-code\\NotificationManagement\\Common\\Common.Domain\\Common.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\sample-code\\NotificationManagement\\Common\\Common.Domain\\Common.Domain.csproj",
+        "projectName": "Common.Domain",
+        "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Domain\\Common.Domain.csproj",
+        "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+        "outputPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+          "http://nuget.scratnet.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj": {
+                "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\sample-code\\NotificationManagement\\src\\Domain\\NotificationManagement.Domain\\NotificationManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\sample-code\\NotificationManagement\\src\\Domain\\NotificationManagement.Domain\\NotificationManagement.Domain.csproj",
+        "projectName": "NotificationManagement.Domain",
+        "projectPath": "E:\\sample-code\\NotificationManagement\\src\\Domain\\NotificationManagement.Domain\\NotificationManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+        "outputPath": "E:\\sample-code\\NotificationManagement\\src\\Domain\\NotificationManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+          "http://nuget.scratnet.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj": {
+                "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj"
+              },
+              "E:\\sample-code\\NotificationManagement\\Common\\Common.Domain\\Common.Domain.csproj": {
+                "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Domain\\Common.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\sample-code\\NotificationManagement\\test\\NotificationManagement.Domain.Tests.Unit\\NotificationManagement.Domain.Tests.Unit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\sample-code\\NotificationManagement\\test\\NotificationManagement.Domain.Tests.Unit\\NotificationManagement.Domain.Tests.Unit.csproj",
+        "projectName": "NotificationManagement.Domain.Tests.Unit",
+        "projectPath": "E:\\sample-code\\NotificationManagement\\test\\NotificationManagement.Domain.Tests.Unit\\NotificationManagement.Domain.Tests.Unit.csproj",
+        "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+        "outputPath": "E:\\sample-code\\NotificationManagement\\test\\NotificationManagement.Domain.Tests.Unit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+          "http://nuget.scratnet.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj": {
+                "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Core\\Common.Core.csproj"
+              },
+              "E:\\sample-code\\NotificationManagement\\Common\\Common.Domain\\Common.Domain.csproj": {
+                "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\Common.Domain\\Common.Domain.csproj"
+              },
+              "E:\\sample-code\\NotificationManagement\\src\\Domain\\NotificationManagement.Domain\\NotificationManagement.Domain.csproj": {
+                "projectPath": "E:\\sample-code\\NotificationManagement\\src\\Domain\\NotificationManagement.Domain\\NotificationManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>ServiceHost.xml</DocumentationFile>
+    <noWarn>1591</noWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Komodo.Serializer.ProtoBuf" Version="1.2.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0" />
+    <PackageReference Include="Sentry.Extensions.Logging" Version="2.1.6" />
+    <PackageReference Include="MongoDB.Driver" Version="2.11.5" />
+    <PackageReference Include="Mapster" Version="7.0.0" />
+    <PackageReference Include="Google.Protobuf" Version="3.14.0" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.33.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\CacheHelper\CacheHelper.csproj" />
+    <ProjectReference Include="..\..\Common\Common.Application\Common.Application.csproj" />
+    <ProjectReference Include="..\..\Common\Common.AspNetCore\Common.AspNetCore.csproj" />
+    <ProjectReference Include="..\..\Common\Common.Query\Common.Query.csproj" />
+    <ProjectReference Include="..\..\Common\Common.Swagger\Common.Swagger.csproj" />
+    <ProjectReference Include="..\..\Common\Consul.KeyValue.Helper\Consul.KeyValue.Helper.csproj" />
+    <ProjectReference Include="..\..\Common\RedisConnectionHelper\RedisConnectionHelper.csproj" />
+    <ProjectReference Include="..\Application\NotificationManagement.Application\NotificationManagement.Application.csproj" />
+    <ProjectReference Include="..\Infrastructure\NotificationManager.Config\NotificationManagement.Config.csproj" />
+    <ProjectReference Include="..\Presentation\NotificationManagement.Presentation.Api.GRPC\NotificationManagement.Presentation.Api.GRPC.csproj" />
+    <ProjectReference Include="..\Presentation\NotificationManagement.Presentation.Api\NotificationManagement.Presentation.Api.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\mm\source\repos\filmnet\Common\Common.Application.Contract\bin\Debug\netstandard2.1\Common.Application.Contract.deps.json
+C:\Users\mm\source\repos\filmnet\Common\Common.Application.Contract\bin\Debug\netstandard2.1\Common.Application.Contract.dll
+C:\Users\mm\source\repos\filmnet\Common\Common.Application.Contract\bin\Debug\netstandard2.1\Common.Application.Contract.pdb
+C:\Users\mm\source\repos\filmnet\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\filmnet\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.AssemblyInfo.cs
+C:\Users\mm\source\repos\filmnet\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\filmnet\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.dll
+C:\Users\mm\source\repos\filmnet\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\bin\Debug\netstandard2.1\Common.Application.Contract.deps.json
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\bin\Debug\netstandard2.1\Common.Application.Contract.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\bin\Debug\netstandard2.1\Common.Application.Contract.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.AssemblyInfo.cs
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\Common.Application.Contract\obj\Debug\netstandard2.1\Common.Application.Contract.csprojAssemblyReference.cache

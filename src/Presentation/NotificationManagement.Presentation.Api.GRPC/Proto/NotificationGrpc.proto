@@ -1,0 +1,54 @@
+﻿syntax = "proto3";
+import "google/protobuf/duration.proto";  
+import "google/protobuf/timestamp.proto";
+option csharp_namespace = "NotificationManagement.Presentation.Api.GRPC.Proto";
+
+
+service NotoficationManagementService{
+    rpc GetUser(GetUserRequest) returns (GetUserResponse);
+    rpc CreateUser(CreateUserRequest) returns (CreateUserResponse);
+    rpc SendMessage(SendMessageRequest) returns (SendMessageResponse);
+}
+
+
+message GetUserRequest{
+	string UserId=1;
+}
+
+message GetUserResponse{
+	User User = 1;
+}
+
+message CreateUserResponse{
+	bool IsSuccessfull=1;
+}
+
+message CreateUserRequest{
+    User User = 1;
+}
+
+message SendMessageResponse{
+	bool IsSuccessfull=1;
+}
+
+message SendMessageRequest{
+    Message message = 1;
+}
+
+message User{
+	string Id = 1;
+    string Name = 2;
+    string Family = 3;
+    bool Sex = 4;
+    bool IsMarrid = 5;
+    bool IsActive = 6;
+    string Mobile = 7;
+    string Email = 8;
+    google.protobuf.Timestamp BirthDate = 9;
+}
+
+message Message{
+    repeated string UserIds = 1;
+    string Content = 2;
+    string Title = 3;
+}

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NotificationManagement.Presentation.Api.GRPC.SDK</id>
+    <version>1.0.1</version>
+    <authors>NotificationManagement.Presentation.Api.GRPC.SDK</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Google.Protobuf" version="3.14.0" exclude="Build,Analyzers" />
+        <dependency id="Google.Protobuf.Tools" version="3.14.0" exclude="Build,Analyzers" />
+        <dependency id="Grpc.AspNetCore" version="2.33.1" exclude="Build,Analyzers" />
+        <dependency id="Grpc.Net.Client" version="2.33.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http.Polly" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="3.1.10" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="3.1.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Presentation\NotificationManagement.Presentation.Api.GRPC.SDK\bin\Debug\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.dll" target="lib\netcoreapp3.1\NotificationManagement.Presentation.Api.GRPC.SDK.dll" />
+  </files>
+</package>

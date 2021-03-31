@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Pawny.Common/0.2.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Pawny.Common.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Pawny.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pawny.Common/0.2.1": {
+      "sha512": "y1P2pkpb7VXdD15aaCN29ps+bYyfdOTTC0eBygWQeDCqjzS2XXYti+bapyM7SkTJsxDmgMhXfOQUZB3KZzbfeA==",
+      "type": "package",
+      "path": "pawny.common/0.2.1",
+      "files": [
+        ".nupkg.metadata",
+        "lib/netstandard2.0/Pawny.Common.dll",
+        "pawny.common.0.2.1.nupkg.sha512",
+        "pawny.common.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "Pawny.Common >= 0.2.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mm\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\sample-code\\NotificationManagement\\Common\\GatewayAuthentication\\Common.Authentication.csproj",
+      "projectName": "Common.Authentication",
+      "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\GatewayAuthentication\\Common.Authentication.csproj",
+      "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+      "outputPath": "E:\\sample-code\\NotificationManagement\\Common\\GatewayAuthentication\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+        "http://nuget.scratnet.com/nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
+        "dependencies": {
+          "Pawny.Common": {
+            "target": "Package",
+            "version": "[0.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

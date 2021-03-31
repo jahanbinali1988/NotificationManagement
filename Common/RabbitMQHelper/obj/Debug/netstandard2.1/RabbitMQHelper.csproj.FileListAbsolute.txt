@@ -1,0 +1,9 @@
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\bin\Debug\netstandard2.1\RabbitMQHelper.deps.json
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\bin\Debug\netstandard2.1\RabbitMQHelper.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\bin\Debug\netstandard2.1\RabbitMQHelper.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\obj\Debug\netstandard2.1\RabbitMQHelper.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\obj\Debug\netstandard2.1\RabbitMQHelper.AssemblyInfo.cs
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\obj\Debug\netstandard2.1\RabbitMQHelper.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\obj\Debug\netstandard2.1\RabbitMQHelper.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\obj\Debug\netstandard2.1\RabbitMQHelper.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\Common\RabbitMQHelper\obj\Debug\netstandard2.1\RabbitMQHelper.csprojAssemblyReference.cache

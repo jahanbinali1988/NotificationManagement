@@ -1,0 +1,14 @@
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\bin\Debug\netcoreapp3.1\NotificationManagement.Domain.deps.json
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\bin\Debug\netcoreapp3.1\NotificationManagement.Domain.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\bin\Debug\netcoreapp3.1\NotificationManagement.Domain.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\bin\Debug\netcoreapp3.1\Common.Core.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\bin\Debug\netcoreapp3.1\Common.Domain.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\bin\Debug\netcoreapp3.1\Common.Core.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\bin\Debug\netcoreapp3.1\Common.Domain.pdb
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\obj\Debug\netcoreapp3.1\NotificationManagement.Domain.csprojAssemblyReference.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\obj\Debug\netcoreapp3.1\NotificationManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\obj\Debug\netcoreapp3.1\NotificationManagement.Domain.AssemblyInfo.cs
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\obj\Debug\netcoreapp3.1\NotificationManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\obj\Debug\netcoreapp3.1\NotificationManagement.Domain.csproj.CopyComplete
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\obj\Debug\netcoreapp3.1\NotificationManagement.Domain.dll
+C:\Users\mm\source\repos\Khanoumi.NotificationManagement\src\Domain\NotificationManagement.Domain\obj\Debug\netcoreapp3.1\NotificationManagement.Domain.pdb

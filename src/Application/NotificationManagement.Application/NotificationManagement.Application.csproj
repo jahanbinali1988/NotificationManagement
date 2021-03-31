@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\NotificationManagement.Domain\NotificationManagement.Domain.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\NotificationManagement.Persistence.Mongo\NotificationManagement.Persistence.Mongo.csproj" />
+  </ItemGroup>
+
+</Project>

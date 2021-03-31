@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\sample-code\\NotificationManagement\\Common\\Consul.KeyValue.Helper\\Consul.KeyValue.Helper.csproj": {}
+  },
+  "projects": {
+    "E:\\sample-code\\NotificationManagement\\Common\\Consul.KeyValue.Helper\\Consul.KeyValue.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\sample-code\\NotificationManagement\\Common\\Consul.KeyValue.Helper\\Consul.KeyValue.Helper.csproj",
+        "projectName": "Consul.KeyValue.Helper",
+        "projectPath": "E:\\sample-code\\NotificationManagement\\Common\\Consul.KeyValue.Helper\\Consul.KeyValue.Helper.csproj",
+        "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
+        "outputPath": "E:\\sample-code\\NotificationManagement\\Common\\Consul.KeyValue.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\mm\\Documents\\Local Nuget Package": {},
+          "http://nuget.scratnet.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Winton.Extensions.Configuration.Consul": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

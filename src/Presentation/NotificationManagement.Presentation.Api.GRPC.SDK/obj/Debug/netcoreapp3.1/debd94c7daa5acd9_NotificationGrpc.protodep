@@ -1,0 +1,4 @@
+obj\Debug\netcoreapp3.1/NotificationGrpc.cs \
+obj\Debug\netcoreapp3.1/NotificationGrpcGrpc.cs: C:/Users/mm/.nuget/packages/grpc.tools/2.33.1/build/native/include/google/protobuf/duration.proto\
+ C:/Users/mm/.nuget/packages/grpc.tools/2.33.1/build/native/include/google/protobuf/timestamp.proto\
+ ../NotificationManagement.Presentation.Api.GRPC/Proto/NotificationGrpc.proto
